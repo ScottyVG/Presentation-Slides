@@ -6,6 +6,7 @@
 }
 #slides {
   width: 999999px;
+  /*padding-top: 150px;*/
 }
 #slides> div {
   height: 600px;
