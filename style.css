@@ -1,6 +1,6 @@
 .wrap {
   margin: auto;
-  width: 1180px;
+  width: 1660px;
   overflow: hidden;
   /* because children will be floated */
 }
@@ -9,8 +9,8 @@
   /*padding-top: 150px;*/
 }
 #slides> div {
-  height: 600px;
-  width: 1180px;
+  height: 1200px;
+  width: 1660px;
   float: left;
   margin-right: 200px;
   text-align: center;
@@ -29,7 +29,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 #slides h1 {
-  font-size: 1000%;
+  font-size: 3000%;
 }
 #slides h1, #slides h2, #slides h3, #slides h4, #slides h5 {
   color: #292929;

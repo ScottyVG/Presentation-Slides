@@ -69,3 +69,10 @@ $(document).ready(function() {
   // All right; let's do this.
   Slides.init(12);
 });
+
+// let slides = {
+//   0: <div>
+//     <h1>GTD</h1>
+//   </div>
+//
+// }
