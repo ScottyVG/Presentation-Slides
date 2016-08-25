@@ -45,6 +45,11 @@ body {
 }
 #slides h6 {
   font-size: 500%;
+  line-height: 2em;
+}
+#slides p {
+  font-size: 400%;
+  line-height: 2em;
 }
 #slides h1, #slides h2, #slides h3, #slides h4, #slides h5 {
   color: #292929;
