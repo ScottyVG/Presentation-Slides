@@ -31,6 +31,21 @@ body {
 #slides h1 {
   font-size: 3000%;
 }
+#slides h2 {
+  font-size: 2500%;
+}
+#slides h3 {
+  font-size: 2000%;
+}
+#slides h4 {
+  font-size: 1500%;
+}
+#slides h5 {
+  font-size: 1000%;
+}
+#slides h6 {
+  font-size: 500%;
+}
 #slides h1, #slides h2, #slides h3, #slides h4, #slides h5 {
   color: #292929;
   margin-top: 0;
@@ -40,4 +55,8 @@ body {
   font-size: 180px;
   line-height: 1em;
   margin: 0;
+}
+#slides> div img {
+  width: 100%;
+  height: auto;
 }
