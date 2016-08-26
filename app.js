@@ -67,7 +67,7 @@ $(document).ready(function() {
   };
 
   // All right; let's do this.
-  Slides.init(12);
+  Slides.init(39);
 });
 
 // let slides = {
